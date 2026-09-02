@@ -1,39 +1,28 @@
-# Hi, I'm Cory
+## Hi, I'm Cory
 
-**AI Engineer building production-oriented AI applications and full-stack systems.**
+**An AI Engineer building production-oriented AI applications and full-stack systems.**
 
-I work across the full stack — building systems with LLMs, RAG, and agentic workflows, backed by production APIs, data infrastructure, and cloud deployment. Day to day that means `Python`, `TypeScript`, `FastAPI`, `React`, `PostgreSQL`, `Redis`, and `Docker`.
+I work across the full stack — building systems with LLMs, RAG, and agentic workflows, backed by production APIs, data infrastructure, and cloud deployment.
 
----
-
-## What I'm Working On
-
-- **[Project Name]** — [Short description of what it does and the problem it solves]. `[Tech]` · `[Tech]` · [Repository](REPO_URL)
-- **[Project Name]** — [Short description of what it does and the problem it solves]. `[Tech]` · `[Tech]` · [Repository](REPO_URL)
+**AI / LLM:** `LangChain` · `LangGraph` · `Hugging Face` · `Qdrant`  
+**Engineering:** `Python` · `TypeScript` · `FastAPI` · `React` · `Next.js` · `PostgreSQL` · `Redis` · `Docker`
 
 ---
 
-## Connect
+### What I'm Working On
 
-<p>
-  <a href="PORTFOLIO_URL">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/google/material-design-icons/3.0.1/social/2x_web/ic_public_white_24dp.png">
-      <img src="https://raw.githubusercontent.com/google/material-design-icons/3.0.1/social/2x_web/ic_public_black_24dp.png" height="20" alt="Website">
-    </picture>
-    Portfolio
-  </a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="LINKEDIN_URL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="20" alt="LinkedIn">
-    LinkedIn
-  </a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:EMAIL_ADDRESS">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/google/material-design-icons/3.0.1/communication/2x_web/ic_email_white_24dp.png">
-      <img src="https://raw.githubusercontent.com/google/material-design-icons/3.0.1/communication/2x_web/ic_email_black_24dp.png" height="20" alt="Email">
-    </picture>
-    Email
-  </a>
-</p>
+- **AI-Powered Logistics Platform** — Full-stack platform for last-mile delivery and warehouse management, with automated inventory and RFP workflows, LangGraph agents, Qdrant RAG pipelines, MCP tools, and production deployment workflows.  
+  `Next.js` · `FastAPI` · `LangGraph` · `Qdrant` · `PostgreSQL`  
+  [Live Demo](https://trackflow-ai-powered-logistics-plat.vercel.app/) · [Production Back Office](https://backoffice.forgehub.cloud/) · [Repository](REPO_URL)
+
+- **Full-Stack Banking Platform** — Secure simulated banking platform with role-gated transactions, concurrency-safe PostgreSQL transfers, RBAC, Argon2id authentication, and containerized deployment.  
+  `React` · `TypeScript` · `FastAPI` · `PostgreSQL` · `Docker`  
+  [Live Demo](https://bank.forgehub.cloud/login) · [Repository](REPO_URL)
+
+---
+
+### Connect
+
+- 🌐 Portfolio: [corymcdaniel.dev](https://corymcdaniel.dev)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="18" height="18" alt="LinkedIn"> LinkedIn: [linkedin.com/in/corymcdanielai](https://www.linkedin.com/in/corymcdanielai/)
+- 📧 Email: [cory@corymcdaniel.dev](mailto:cory@corymcdaniel.dev)
